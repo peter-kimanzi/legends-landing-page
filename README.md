@@ -5,7 +5,7 @@
 
 # how to install required  dependencies
 
-    https://youtu.be/6sp_a1fnkjE
+    https://www.youtube.com/watch?v=6sp_a1fnkjE
 
 # Resource
 
