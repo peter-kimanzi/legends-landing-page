@@ -14,7 +14,7 @@
     Images: https://unsplash.com/
     SwiperJS: https://swiperjs.com/
 
-# Preview
+# Screenshots
 
 !["ReactJS Game Landing Page | ReactJS SASS ViteJS"](https://user-images.githubusercontent.com/67447840/139580486-542d3b05-2e78-4b43-8b3c-ca36cad927c9.png "ReactJS Game Landing Page | ReactJS SASS ViteJS")
 
