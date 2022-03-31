@@ -1,6 +1,6 @@
 # legends-landing-page
 
-    ReactJS Game Landing Page | ReactJS SASS ViteJS
+   Game Landing Page with animation
     
 ## Technologies used
  * ReactJS 
