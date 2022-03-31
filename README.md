@@ -3,7 +3,9 @@
     ReactJS Game Landing Page | ReactJS SASS ViteJS
     
 ## Technologies used
- * ReactJS SASS ViteJS    
+ * ReactJS 
+ * SASS 
+ * ViteJS    
 
 
 ## how to install required  dependencies
