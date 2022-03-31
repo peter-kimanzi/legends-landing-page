@@ -7,14 +7,14 @@
 
     https://www.youtube.com/watch?v=6sp_a1fnkjE
 
-# Resource
+## Resource
 
     Google font: https://fonts.google.com/
     Boxicons: https://boxicons.com/
     Images: https://unsplash.com/
     SwiperJS: https://swiperjs.com/
 
-# Screenshots
+## Screenshots
 
 !["ReactJS Game Landing Page | ReactJS SASS ViteJS"](https://user-images.githubusercontent.com/67447840/139580486-542d3b05-2e78-4b43-8b3c-ca36cad927c9.png "ReactJS Game Landing Page | ReactJS SASS ViteJS")
 
