@@ -3,7 +3,7 @@
     ReactJS Game Landing Page | ReactJS SASS ViteJS
 
 
-# Video tutorial
+# how to install required dependancies
 
     https://youtu.be/6sp_a1fnkjE
 
