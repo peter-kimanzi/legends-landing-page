@@ -1,9 +1,9 @@
-## legends-landing-page
+# legends-landing-page
 
     ReactJS Game Landing Page | ReactJS SASS ViteJS
 
 
-# how to install required  dependencies
+## how to install required  dependencies
 
     https://www.youtube.com/watch?v=6sp_a1fnkjE
 
